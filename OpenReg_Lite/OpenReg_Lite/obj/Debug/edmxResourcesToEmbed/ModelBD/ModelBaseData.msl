@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище TestRegLogModelContainer" CdmEntityContainer="TestRegLogEntities">
+    <EntitySetMapping Name="RoleUs">
+      <EntityTypeMapping TypeName="TestRegLogModel.RoleUs">
+        <MappingFragment StoreEntitySet="RoleUs">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="TestRegLogModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="RoomLife" ColumnName="RoomLife" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Room">
+      <EntityTypeMapping TypeName="TestRegLogModel.Room">
+        <MappingFragment StoreEntitySet="Room">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="CostM" ColumnName="CostM" />
+          <ScalarProperty Name="NumberOfRooms" ColumnName="NumberOfRooms" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="NumberOfHoursWorked" ColumnName="NumberOfHoursWorked" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

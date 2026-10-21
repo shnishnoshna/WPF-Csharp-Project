@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2b539758a4b84116a155d5ad05ac57af" Name="Diagram1" ZoomLevel="84">
+        <EntityTypeShape EntityType="TestRegLogModel.RoleUs" Width="1.5" PointX="0.875" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestRegLogModel.User" Width="1.5" PointX="3.125" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="TestRegLogModel.FK_User_RoleUs" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="TestRegLogModel.Room" Width="1.5" PointX="0.75" PointY="2.75" />
+        <AssociationConnector Association="TestRegLogModel.FK_User_Room" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

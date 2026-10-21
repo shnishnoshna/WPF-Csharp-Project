@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|e:\\kurstutuor\\gotovobezback\\openreg_lite\\openreg_lite\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\administratorroomhotel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\administratorroomhotel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\administratorroomhotel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\administratorroomhotel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\administrouserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\administrouserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\databasep.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\databasep.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\regisrpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\regisrpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\mainp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\mainp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\administratopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\administratopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\databasep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\databasep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\mainp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\mainp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\administrouserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\administrouserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\administromaneypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\administromaneypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\administratopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\administratopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\administroworkerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\administroworkerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\administroworkerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\administroworkerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\administropenpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\administropenpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\modelbd\\modelbasedata.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\modelbd\\modelbasedata.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\regisrpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\regisrpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\images\\home.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\images\\home.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\modelbd\\connectclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\modelbd\\connectclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\welcomep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\welcomep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\views\\welcomep.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\views\\welcomep.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\modelbd\\modelbasedata.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\modelbd\\modelbasedata.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\openreg_lite\\modelbd\\modelbasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897996AA-9BE6-4F0A-BC23-30681612A56C}|OpenReg_Lite\\OpenReg_Lite.csproj|solutionrelative:openreg_lite\\modelbd\\modelbasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserPage.xaml.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\UserPage.xaml.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\UserPage.xaml.cs",
+              "RelativeToolTip": "OpenReg_Lite\\UserPage.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:05:58.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\UserPage.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\UserPage.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\UserPage.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\UserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainP.xaml.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\MainP.xaml.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\MainP.xaml.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\MainP.xaml.cs",
+              "RelativeToolTip": "OpenReg_Lite\\MainP.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAASwCsAAAAMAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADnSURBVDhPY0AGrdtu/99x6fl/KJcowASlwcBcjpchdulthm0XnxFtCCNDzj4MxZqinAybo0UZysvLoSIMDBwcHAxFRUUMxsbGjFAhTLD7yvP/ouWH/oNc8P79\u002B/9Pnz6F4\u002BDg4P\u002BRkZH/z5w5g2IhihdOPfrCsDhalcFSjpPh27dvUFEE\u002BPXrF0Nvby8DsiEoBoQo/2Mwl\u002BXAqhkGQIb09/dDeaAwQAKxsbH/Ozo6oDzcIC8vj2Ht2rVgvSguwGczLoBiADlg1AAqGICSDtLT0/\u002B/efMGysMNREREGGbOnIk7TxAPGBgApqZb3l1ZIBYAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-10-21T07:05:58.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBaseP.xaml.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\DataBaseP.xaml.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\DataBaseP.xaml.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\DataBaseP.xaml.cs",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\DataBaseP.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCwAAAAQAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADnSURBVDhPY0AGrdtu/99x6fl/KJcowASlwcBcjpchdulthm0XnxFtCCNDzj4MxZqinAybo0UZysvLoSIMDBwcHAxFRUUMxsbGjFAhTLD7yvP/ouWH/oNc8P79\u002B/9Pnz6F4\u002BDg4P\u002BRkZH/z5w5g2IhihdOPfrCsDhalcFSjpPh27dvUFEE\u002BPXrF0Nvby8DsiEoBoQo/2Mwl\u002BXAqhkGQIb09/dDeaAwQAKxsbH/Ozo6oDzcIC8vj2Ht2rVgvSguwGczLoBiADlg1AAqGICSDtLT0/\u002B/efMGysMNREREGGbOnIk7TxAPGBgApqZb3l1ZIBYAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-10-21T07:05:58.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdministroUserPage.xaml.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroUserPage.xaml.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\AdministroUserPage.xaml.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroUserPage.xaml.cs",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\AdministroUserPage.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowBcAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADnSURBVDhPY0AGrdtu/99x6fl/KJcowASlwcBcjpchdulthm0XnxFtCCNDzj4MxZqinAybo0UZysvLoSIMDBwcHAxFRUUMxsbGjFAhTLD7yvP/ouWH/oNc8P79\u002B/9Pnz6F4\u002BDg4P\u002BRkZH/z5w5g2IhihdOPfrCsDhalcFSjpPh27dvUFEE\u002BPXrF0Nvby8DsiEoBoQo/2Mwl\u002BXAqhkGQIb09/dDeaAwQAKxsbH/Ozo6oDzcIC8vj2Ht2rVgvSguwGczLoBiADlg1AAqGICSDtLT0/\u002B/efMGysMNREREGGbOnIk7TxAPGBgApqZb3l1ZIBYAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-10-21T07:05:58.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisrPage.xaml.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\RegisrPage.xaml.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\RegisrPage.xaml.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\RegisrPage.xaml.cs",
+              "RelativeToolTip": "OpenReg_Lite\\RegisrPage.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAjwEkAAAAXAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADnSURBVDhPY0AGrdtu/99x6fl/KJcowASlwcBcjpchdulthm0XnxFtCCNDzj4MxZqinAybo0UZysvLoSIMDBwcHAxFRUUMxsbGjFAhTLD7yvP/ouWH/oNc8P79\u002B/9Pnz6F4\u002BDg4P\u002BRkZH/z5w5g2IhihdOPfrCsDhalcFSjpPh27dvUFEE\u002BPXrF0Nvby8DsiEoBoQo/2Mwl\u002BXAqhkGQIb09/dDeaAwQAKxsbH/Ozo6oDzcIC8vj2Ht2rVgvSguwGczLoBiADlg1AAqGICSDtLT0/\u002B/efMGysMNREREGGbOnIk7TxAPGBgApqZb3l1ZIBYAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-10-21T07:05:58.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdministratorRoomHotel.xaml.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministratorRoomHotel.xaml.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\AdministratorRoomHotel.xaml.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministratorRoomHotel.xaml.cs",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\AdministratorRoomHotel.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowGMAAAAQAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADnSURBVDhPY0AGrdtu/99x6fl/KJcowASlwcBcjpchdulthm0XnxFtCCNDzj4MxZqinAybo0UZysvLoSIMDBwcHAxFRUUMxsbGjFAhTLD7yvP/ouWH/oNc8P79\u002B/9Pnz6F4\u002BDg4P\u002BRkZH/z5w5g2IhihdOPfrCsDhalcFSjpPh27dvUFEE\u002BPXrF0Nvby8DsiEoBoQo/2Mwl\u002BXAqhkGQIb09/dDeaAwQAKxsbH/Ozo6oDzcIC8vj2Ht2rVgvSguwGczLoBiADlg1AAqGICSDtLT0/\u002B/efMGysMNREREGGbOnIk7TxAPGBgApqZb3l1ZIBYAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-10-21T07:05:58.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdministratorRoomHotel.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministratorRoomHotel.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\AdministratorRoomHotel.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministratorRoomHotel.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\AdministratorRoomHotel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdministratoPage.xaml.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministratoPage.xaml.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\AdministratoPage.xaml.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministratoPage.xaml.cs",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\AdministratoPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwBkAAAA8AAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADnSURBVDhPY0AGrdtu/99x6fl/KJcowASlwcBcjpchdulthm0XnxFtCCNDzj4MxZqinAybo0UZysvLoSIMDBwcHAxFRUUMxsbGjFAhTLD7yvP/ouWH/oNc8P79\u002B/9Pnz6F4\u002BDg4P\u002BRkZH/z5w5g2IhihdOPfrCsDhalcFSjpPh27dvUFEE\u002BPXrF0Nvby8DsiEoBoQo/2Mwl\u002BXAqhkGQIb09/dDeaAwQAKxsbH/Ozo6oDzcIC8vj2Ht2rVgvSguwGczLoBiADlg1AAqGICSDtLT0/\u002B/efMGysMNREREGGbOnIk7TxAPGBgApqZb3l1ZIBYAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-10-21T07:05:58.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataBaseP.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\DataBaseP.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\DataBaseP.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\DataBaseP.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\DataBaseP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainP.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\MainP.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\MainP.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\MainP.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\MainP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdministroUserPage.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroUserPage.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\AdministroUserPage.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroUserPage.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\AdministroUserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\packages.config",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\packages.config",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\packages.config",
+              "RelativeToolTip": "OpenReg_Lite\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFpSURBVDhPpZO9isJAFIWP4y/YBETEysZeEAs7i2idQsRSIYWdhfoaKhhIb22TvEeKPICFhQEVURtBba7O7CSs6O5G9oNhuIfck5vLCf5LRN7o9Xq03\u002B9l9UoqlcJwOES5XA56OEHRbDZpNpvJ6pV\u002Bv49EIiFMKpVK0MfkHYrb7YbxeAzHcUhKnxlwuMl0OsX5fBYmoQ345/nncrlI9ZuBaZpQFAXpdBrRaFSqfyMMttsttVotVKtVTCYTsaywJow353K5iGEYYIxhPp\u002BLMZPJpHzkd1i73YbrulQqlSKNRkOIlmWJKcLAjscjOp0ORqMRLRYLIX60A03TcDqd4DdzYrEYDocD4vG4VH6GDQYD6LqObDaLxy6Qz\u002Bex2WzEVNfrNZTJE\u002Bv1mur1OhUKBarVarRarWi325HnecHhsfeD9PRj\u002BHATPsFyuUSxWIRt2\u002Bh2uyD6SnAmkxFpfGTmbb\u002BAm6iqKt4mpTcAd/rOlHmgrxSPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-10-21T07:05:58.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdministroManeyPage.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroManeyPage.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\AdministroManeyPage.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroManeyPage.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\AdministroManeyPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdministroWorkerPage.xaml.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroWorkerPage.xaml.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\AdministroWorkerPage.xaml.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroWorkerPage.xaml.cs",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\AdministroWorkerPage.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:05:58.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdministroWorkerPage.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroWorkerPage.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\AdministroWorkerPage.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroWorkerPage.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\AdministroWorkerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisrPage.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\RegisrPage.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\RegisrPage.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\RegisrPage.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\RegisrPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdministroPenPage.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroPenPage.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\AdministroPenPage.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministroPenPage.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\AdministroPenPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdministratoPage.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministratoPage.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\AdministratoPage.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\AdministratoPage.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\AdministratoPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\MainWindow.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\MainWindow.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModelBaseData.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\ModelBD\\ModelBaseData.edmx",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\ModelBD\\ModelBaseData.edmx",
+              "ToolTip": "D:\\KURSTUTUOR\\OpenReg_Lite\\OpenReg_Lite\\ModelBD\\ModelBaseData.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-10-21T07:05:58.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConnectClass.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\ModelBD\\ConnectClass.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\ModelBD\\ConnectClass.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\ModelBD\\ConnectClass.cs",
+              "RelativeToolTip": "OpenReg_Lite\\ModelBD\\ConnectClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:05:58.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WelcomeP.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\WelcomeP.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\WelcomeP.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\WelcomeP.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\WelcomeP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OpenReg_Lite\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:05:58.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Home.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Images\\Home.png",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Images\\Home.png",
+              "ToolTip": "D:\\KURSTUTUOR\\OpenReg_Lite\\OpenReg_Lite\\Images\\Home.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-21T07:05:58.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\App.xaml",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\App.xaml",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\App.xaml",
+              "RelativeToolTip": "OpenReg_Lite\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:05:58.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WelcomeP.xaml.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\WelcomeP.xaml.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\Views\\WelcomeP.xaml.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\Views\\WelcomeP.xaml.cs",
+              "RelativeToolTip": "OpenReg_Lite\\Views\\WelcomeP.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:05:58.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ModelBaseData.Context.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\ModelBD\\ModelBaseData.Context.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\ModelBD\\ModelBaseData.Context.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\ModelBD\\ModelBaseData.Context.cs",
+              "RelativeToolTip": "OpenReg_Lite\\ModelBD\\ModelBaseData.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:05:58.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ModelBaseData.cs",
+              "DocumentMoniker": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\ModelBD\\ModelBaseData.cs",
+              "RelativeDocumentMoniker": "OpenReg_Lite\\ModelBD\\ModelBaseData.cs",
+              "ToolTip": "E:\\KURSTUTUOR\\GotovoBezBack\\OpenReg_Lite\\OpenReg_Lite\\ModelBD\\ModelBaseData.cs",
+              "RelativeToolTip": "OpenReg_Lite\\ModelBD\\ModelBaseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:05:58.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

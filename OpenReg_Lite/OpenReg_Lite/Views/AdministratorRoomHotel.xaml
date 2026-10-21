@@ -1,0 +1,93 @@
+﻿<Page x:Class="OpenReg_Lite.Views.AdministratorRoomHotel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:OpenReg_Lite.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AdministratorRoomHotel"
+      Loaded="Page_Loaded">
+
+    <Grid Background="#f0dcc4">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+               
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition Height="20"/>
+                    </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Row="0" Text="Найти:"
+                               VerticalAlignment="Bottom"
+                               Margin="5,0,0,0"/>
+                    <TextBox Grid.Row="1" Margin="5,0,0,0"
+                             Name="TextSearch"
+                             TextChanged="TextSearch_TextChanged"/>
+                </Grid>
+                <Button Grid.Row="1" Margin="5" Click="Button_Click">
+                    <Button.Content>
+                        <TextBlock Text="+" FontSize="80" HorizontalAlignment="Center" VerticalAlignment="Center" Height="126" Foreground="#FF353535"/>
+                    </Button.Content>
+                </Button>
+                <Button Grid.Row="1" Grid.Column="2" Margin="5" Click="Del_Button">
+                    <Button.Content>
+                        <TextBlock Text="-" FontSize="80" HorizontalAlignment="Center" VerticalAlignment="Center" Height="126" Foreground="#FF353535" />
+                    </Button.Content>
+                </Button>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="Номер комнаты" VerticalAlignment="Center"/>
+                    <TextBox x:Name="RoomNumber" Grid.Row="1"/>
+                    <TextBlock Grid.Row="2" Text="Количество комнат" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Column="1" Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <TextBox x:Name="TextNumber" Grid.Row="0"/>
+                    <TextBlock Grid.Row="1" Text="Стоимость" VerticalAlignment="Center"/>
+                    <TextBox x:Name="Money" Grid.Row="2"/>
+                </Grid>
+               
+            </Grid>
+            <DataGrid Grid.Row="0" x:Name="RoomAdminDataGrid"
+            AutoGenerateColumns="False"
+                      Margin="5">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Width="*" Binding="{Binding ID}"/>
+                    <DataGridTextColumn Header="Номер Комнаты" Width="*" Binding="{Binding Number}"/>
+                    <DataGridTextColumn Header="Кол-во Комнат" Width="*" Binding="{Binding NumberOfRooms}"/>
+                    <DataGridTextColumn Header="Стоимость" Width="*" Binding="{Binding CostM}"/>
+                    <DataGridTextColumn Header="Статус" Width="*" Binding="{Binding Status}"/>
+                    
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Page>

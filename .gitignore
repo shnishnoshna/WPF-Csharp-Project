@@ -1,0 +1,7 @@
+# NuGet packages
+packages/
+*.nupkg
+
+# Build results
+bin/
+obj/
